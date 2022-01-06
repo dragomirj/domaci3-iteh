@@ -1,0 +1,23 @@
+.navbar {
+    padding: 13px !important;
+}
+
+body {
+    background: url('https://static.standard.co.uk/2021/02/22/08/newFile.jpg?width=1200') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+}
+
+.active {
+    font-weight: bold;
+    background-color: yellowgreen;
+}
